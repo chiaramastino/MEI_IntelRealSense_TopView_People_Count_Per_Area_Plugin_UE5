@@ -1,0 +1,249 @@
+# MEI - SPOKE 4 - Intel RealSense Top-View People Count Per Area Plugin for Unreal Engine 5  
+
+**Open multi-sensor real-time people-counting system integrating Intel RealSense depth cameras, YOLO top-view AI, and Unreal Engine 5 for interactive spatial analytics and immersive installations.**
+
+---
+
+## Table of Contents
+- [Overview](#-overview)
+- [System Architecture](#-system-architecture)
+- [YOLO Top-View Model](#-yolo-top-view-model)
+- [Unreal Engine Plugin Features](#-unreal-engine-plugin-features)
+- [Blueprint Quick-Start](#-blueprint-quick-start)
+- [Python Hub Setup](#-python-hub-setup)
+- [Performance and Best Practices](#-performance-and-best-practices)
+- [Privacy and Ethics](#-privacy-and-ethics)
+- [Example Use Cases](#-example-use-cases)
+- [Repository Structure](#-repository-structure)
+- [Installation Checklist](#-installation-checklist)
+- [Future Developments](#-future-developments)
+- [Citation](#-citation)
+- [License](#-license)
+
+---
+
+## Overview  
+
+This repository provides a **modular Unreal Engine 5 plugin** and a **Python-based multi-sensor hub** for top-view people detection using Intel RealSense depth sensors.  
+
+Originally developed within the **MEI (Museo Egizio Immersive)** project in Turin (Italy), it enables real-time people counting and spatial aggregation across defined areas — ideal for **museums, exhibitions, smart spaces, and interactive experiences**.  
+
+All data are anonymized (no RGB images stored or transmitted).
+
+> **Goal:** Enable Unreal Engine 5 to interact with a distributed sensor network for responsive, data-driven immersive environments.
+
+---
+
+## ⚙️ System Architecture  
+
+### Components  
+
+| Component | Language | Role |
+|------------|-----------|------|
+| **Python Hub (`sensor_hub_udp.py`)** | Python 3.9 + | Manages multiple RealSense sensors, performs YOLO inference, and sends JSON results over UDP. |
+| **Unreal Engine Plugin (`PeopleCounterUDP`)** | C++ / Blueprint | Receives and parses people-count packets, exposing Blueprint events for real-time logic. |
+
+---
+
+### Data Flow  
+
+
+Unreal Engine  →  UDP  →  Python Hub  →  YOLOv8 inference  →  UDP  →  Unreal Engine
+
+
+1. UE sends `{ "cmd": "capture" }` to the Hub.  
+2. The Hub captures synchronized frames from all RealSense devices.  
+3. YOLO top-view detects people and counts per sensor.  
+4. A JSON packet is returned to UE with results only (no images).
+
+### Example Payload
+
+ ```{ "schema": "people_count_v1", "timestamp": 1730000000.12, "sensors": [   {"id": "SENSOR001", "count": 3}, {"id": "SENSOR002", "count": 10  ]} ```
+
+
+### YOLO Top-View Model
+
+Architecture: YOLOv8 fine-tuned for overhead (zenithal) perspective
+
+Dataset: GOTPD-1 (Gait and Object Top-View People Detection)
+
+Input: Depth or RGB 640×480 @ 30 fps
+
+Output: Single class "person"
+
+Performance: 30–60 fps (batch mode, RTX-class GPU)
+
+Privacy: No images transmitted — only numeric counts
+
+Unreal Engine Plugin Features
+
+Runtime module: PeopleCounterUDP
+
+---
+
+### Blueprint Components:
+
+UDPJsonReceiverComponent — listens on UDP port (e.g. 7777)
+
+UDPJsonSenderComponent — sends commands (port 7780)
+
+ParsePeopleCountPacket — returns TMap<FString,int32> (count per sensor)
+
+Event: OnJsonReceived triggers logic when new data arrive
+
+Supports: Area aggregation via DataTables (multiple sensors → one zone)
+
+Example Blueprint: BP_PeopleManager
+
+
+
+### Example Applications
+
+Adaptive lighting and responsive media
+
+Audience-triggered projections or audio
+
+Live occupancy dashboards for exhibitions
+
+Blueprint Quick-Start
+
+Create Actor: BP_PeopleManager
+
+Add Components:
+
+UDPJsonReceiverComponent (Port 7777, Auto Start = OFF)
+
+UDPJsonSenderComponent (Target Host = 127.0.0.1, Port 7780)
+
+Event Graph → BeginPlay:
+
+Call Start Receiver()
+
+Set Timer (1 s) to send {"cmd":"capture"} periodically
+
+On Json Received:
+
+Use ParsePeopleCountPacket to get sensor IDs and counts
+
+Aggregate and trigger scene changes
+
+Python Hub example launch
+ ```python sensor_hub_udp.py --model=yolov8_topview.pt --use-depth-input --udp-host=127.0.0.1 --data-port=7777 --cmd-port=7780 --interval=0.0 ```
+
+
+Replace 127.0.0.1 with the IP address of the UE machine if running on separate devices.
+
+### Python Hub Setup
+Requirements
+ ```python -m pip install -r requirements.txt ```
+
+
+ ```Dependencies: pyrealsense2, opencv-python, ultralytics, numpy, asyncio. ```
+
+### Main Commands
+## Command	Description
+ ```{"cmd":"capture"} ```	Acquire and send counts. 
+ ```{"cmd":"set_interval","seconds":1.0} ```	Auto-capture every X seconds. 
+ ```{"cmd":"list_sensors"} ```	Return connected sensor IDs.
+ ```{"cmd":"set_conf","conf":0.6} ```	Adjust YOLO confidence.
+ ```{"cmd":"toggle_depth_input","enabled":true} ```	Enable depth mode.
+ ```{"cmd":"shutdown"} ```	Stop Hub gracefully.
+
+## Performance and Best Practices
+Metric	Typical Value	Note
+Snapshot latency	< 100 ms	Depth stream always active
+YOLO throughput	30–60 fps	Batch mode on RTX GPU
+Sensors tested	Up to 20	Single machine
+Protocol	UDP (JSON, UTF-8)	Lightweight and low latency
+Privacy	Numeric only	No images transferred
+Tips
+
+Use batch inference to reduce GPU load.
+
+Keep Auto Start OFF for Receiver to avoid Editor crashes.
+
+Verify UDP ports 7777/7780 are open on both machines.
+
+---
+
+### Privacy and Ethics
+
+Designed for GDPR compliance — no image storage or transmission.
+
+Only anonymized numeric counts are shared.
+
+Suitable for public spaces and research installations.
+
+
+--- 
+
+### Example Use Cases
+
+Real-time visitor analytics in museums and exhibitions
+
+Adaptive lighting and sound based on presence
+
+Branching storytelling in interactive experiences
+
+Behavioral and accessibility research
+
+---
+
+
+### Repository Structure
+MEI_IntelRealSense_TopView_People_Count_Per_Area_Plugin_UE5/
+├── Plugins/
+│   └── PeopleCounterUDP/        # Unreal Engine plugin source
+├── Python/
+│   ├── sensor_hub_udp.py        # RealSense + YOLO Hub
+│   ├── requirements.txt
+│   └── README_hub.md
+├── Models/
+│   └── yolov8_topview.pt        # (Download externally)
+└── Docs/
+    └── D4.11_Technical_Guide.pdf
+
+
+(Include illustrations or workflow images in Docs/.)
+
+### Installation Checklist
+Step	Action
+Enable PeopleCounterUDP plugin in UE (Edit → Plugins).	
+Install Python 3.9+ and required packages.	
+Connect Intel RealSense sensors and verify depth stream.	
+Run the Hub with correct IP and ports.	
+Start the Unreal scene and receive JSON counts in Blueprints.	
+Future Developments
+
+Long-term analytics dashboard and data logging
+
+Integration with DMX, Art-Net, or DALI lighting systems
+
+WebSocket bridge for Unity, TouchDesigner, and Processing
+
+Multi-machine sensor cluster support
+
+### Citation
+
+If you use this repository in research or exhibitions, please cite:
+
+Chiara Mastino et al.
+“MEI Intel RealSense Top-View People Counting System for Unreal Engine 5,”
+Ribes Digilab SRL, Turin (2025).
+
+### License
+
+MIT License — free to use, modify, and redistribute with attribution.
+
+### Contributors and Acknowledgments
+
+Core concept, Unreal integration, and documentation: Chiara Mastino
+
+Unreal Engine plugin development and Blueprint workflows: Chiara Mastino
+
+
+Thanks to the broader community contributing datasets, tools, and field insights in multi-sensor interaction and cultural heritage tech.
+
+Contributions are welcome via issues and pull requests. Please follow standard GitHub workflows and include clear descriptions, test steps, and rationale in your PRs.
+
+
