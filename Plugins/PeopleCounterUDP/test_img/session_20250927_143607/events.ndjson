@@ -1,0 +1,822 @@
+{"t": 1758976702.345088, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976704.1277792, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976706.0420291, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976708.0176704, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976710.0199692, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976712.0184639, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976714.044758, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976716.0421708, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976718.0316446, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976720.1348956, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976722.0249755, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 0}
+{"t": 1758976724.1146264, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 1}
+{"t": 1758976726.2436607, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976728.066294, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976729.9269733, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976732.3471413, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976733.9005926, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976736.0328178, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976738.1578217, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976739.9753337, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976742.0864704, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976744.1693254, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976745.9778295, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976748.1502128, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976749.9102688, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 1}
+{"t": 1758976752.0753226, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 2}
+{"t": 1758976754.3404746, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 2}
+{"t": 1758976755.9423957, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 2}
+{"t": 1758976758.0369117, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 3}
+{"t": 1758976760.1731997, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 3}
+{"t": 1758976761.9205527, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 3}
+{"t": 1758976764.2408383, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 3}
+{"t": 1758976766.145042, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 4}
+{"t": 1758976767.9697444, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 4}
+{"t": 1758976770.3664625, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 4}
+{"t": 1758976771.975617, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 5}
+{"t": 1758976774.0114806, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 6}
+{"t": 1758976776.1643279, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 6}
+{"t": 1758976777.9696922, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 6}
+{"t": 1758976780.1762617, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 6}
+{"t": 1758976781.92927, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 6}
+{"t": 1758976784.1315062, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 6}
+{"t": 1758976785.968818, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 6}
+{"t": 1758976788.1593597, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 7}
+{"t": 1758976790.0984356, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 7}
+{"t": 1758976792.1698062, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 7}
+{"t": 1758976793.9271824, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 7}
+{"t": 1758976796.213006, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 8}
+{"t": 1758976797.9347317, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 8}
+{"t": 1758976800.035114, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 8}
+{"t": 1758976802.0358624, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 8}
+{"t": 1758976804.0781393, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 8}
+{"t": 1758976806.2320013, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 8}
+{"t": 1758976808.6505444, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 8}
+{"t": 1758976810.8597217, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 9}
+{"t": 1758976813.879436, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 9}
+{"t": 1758976815.8350072, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 9}
+{"t": 1758976821.6240191, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 9}
+{"t": 1758976821.7086792, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 9}
+{"t": 1758976823.4304519, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 9}
+{"t": 1758976830.5525668, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 10}
+{"t": 1758976832.2826912, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 11}
+{"t": 1758976870.4977372, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 12}
+{"t": 1758976870.7012842, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 13}
+{"t": 1758976873.513057, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 13}
+{"t": 1758976876.2990718, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 13}
+{"t": 1758976876.4944088, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 13}
+{"t": 1758976878.6494145, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 14}
+{"t": 1758976880.5731714, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 14}
+{"t": 1758976882.8504121, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 14}
+{"t": 1758976884.7137792, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 14}
+{"t": 1758976886.5936275, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 15}
+{"t": 1758976888.7879772, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 15}
+{"t": 1758976890.6840396, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 16}
+{"t": 1758976893.671602, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 16}
+{"t": 1758976896.6819687, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 17}
+{"t": 1758976899.6718645, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 17}
+{"t": 1758976902.6888618, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 17}
+{"t": 1758976905.2486584, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 17}
+{"t": 1758976907.414818, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 18}
+{"t": 1758976909.1145153, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 18}
+{"t": 1758976911.3674378, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 19}
+{"t": 1758976913.127388, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 21}
+{"t": 1758976966.2478464, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 23}
+{"t": 1758976966.5378568, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 24}
+{"t": 1758976974.0804477, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 25}
+{"t": 1758976974.3085487, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 26}
+{"t": 1758976980.0695958, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 27}
+{"t": 1758976980.2298436, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 28}
+{"t": 1758976987.5448039, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 30}
+{"t": 1758976987.7290232, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 31}
+{"t": 1758976987.8385715, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 33}
+{"t": 1758976987.9876528, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 35}
+{"t": 1758976988.1259568, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 36}
+{"t": 1758976988.2798605, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 37}
+{"t": 1758976994.4135592, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 39}
+{"t": 1758976997.9157372, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 41}
+{"t": 1758976998.0396132, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 42}
+{"t": 1758976998.1850495, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 43}
+{"t": 1758976998.349345, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 44}
+{"t": 1758976998.4780562, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 46}
+{"t": 1758976998.5762084, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 47}
+{"t": 1758976998.6904054, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 49}
+{"t": 1758976998.8323743, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 50}
+{"t": 1758977003.725922, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 51}
+{"t": 1758977003.847172, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 52}
+{"t": 1758977003.9607596, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 53}
+{"t": 1758977004.096438, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 54}
+{"t": 1758977007.324848, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 57}
+{"t": 1758977009.7053285, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 57}
+{"t": 1758977010.116322, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 58}
+{"t": 1758977015.1858425, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 59}
+{"t": 1758977015.255891, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 60}
+{"t": 1758977017.2903688, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 62}
+{"t": 1758977020.8318264, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 63}
+{"t": 1758977021.1618426, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 64}
+{"t": 1758977025.1664286, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 65}
+{"t": 1758977025.2618122, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 67}
+{"t": 1758977028.0213537, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 69}
+{"t": 1758977028.7177267, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 72}
+{"t": 1758977033.1518905, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 73}
+{"t": 1758977035.859622, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 76}
+{"t": 1758977035.9582372, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 78}
+{"t": 1758977036.8078325, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 80}
+{"t": 1758977042.124224, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 81}
+{"t": 1758977042.2850087, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 82}
+{"t": 1758977044.946826, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 84}
+{"t": 1758977049.6682212, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 86}
+{"t": 1758977049.7924833, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 88}
+{"t": 1758977049.8817582, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 89}
+{"t": 1758977053.1041265, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 90}
+{"t": 1758977053.2678895, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 91}
+{"t": 1758977056.8778431, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 91}
+{"t": 1758977057.075298, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 92}
+{"t": 1758977059.1730316, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 92}
+{"t": 1758977065.0651915, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 93}
+{"t": 1758977071.335846, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 94}
+{"t": 1758977071.4358964, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 95}
+{"t": 1758977071.545692, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 97}
+{"t": 1758977071.686514, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 99}
+{"t": 1758977071.8254864, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 100}
+{"t": 1758977074.4114864, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 101}
+{"t": 1758977078.4473376, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 101}
+{"t": 1758977078.5345328, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 102}
+{"t": 1758977080.0170956, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 103}
+{"t": 1758977084.2928214, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 104}
+{"t": 1758977086.1658223, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 104}
+{"t": 1758977086.346739, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 104}
+{"t": 1758977090.6763682, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 106}
+{"t": 1758977093.7418842, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 106}
+{"t": 1758977093.8348432, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 107}
+{"t": 1758977097.5400054, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 110}
+{"t": 1758977097.7182999, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 110}
+{"t": 1758977098.3068595, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 111}
+{"t": 1758977101.103879, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 113}
+{"t": 1758977106.3004358, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 115}
+{"t": 1758977106.4046893, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 115}
+{"t": 1758977106.5236087, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 116}
+{"t": 1758977109.923174, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 118}
+{"t": 1758977110.324997, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 120}
+{"t": 1758977112.6581013, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 121}
+{"t": 1758977116.6962016, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 123}
+{"t": 1758977117.0459602, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 125}
+{"t": 1758977119.5843544, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 125}
+{"t": 1758977122.6242757, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 127}
+{"t": 1758977128.8497744, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 129}
+{"t": 1758977128.9497664, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 130}
+{"t": 1758977129.0883565, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 132}
+{"t": 1758977129.4751718, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 133}
+{"t": 1758977135.2977343, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 134}
+{"t": 1758977135.389054, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 135}
+{"t": 1758977135.4725955, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 136}
+{"t": 1758977137.3714635, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 137}
+{"t": 1758977139.3668406, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 138}
+{"t": 1758977143.3979223, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 140}
+{"t": 1758977143.491291, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 140}
+{"t": 1758977145.513751, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 141}
+{"t": 1758977148.1924834, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 141}
+{"t": 1758977151.8374605, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 142}
+{"t": 1758977157.5638866, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 143}
+{"t": 1758977157.6981664, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 144}
+{"t": 1758977157.816107, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 144}
+{"t": 1758977158.0969183, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 146}
+{"t": 1758977162.4919968, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 146}
+{"t": 1758977162.582023, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 146}
+{"t": 1758977169.103221, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 147}
+{"t": 1758977169.245277, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 148}
+{"t": 1758977169.326718, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 148}
+{"t": 1758977174.1619182, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 149}
+{"t": 1758977174.299351, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 150}
+{"t": 1758977174.6204526, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 151}
+{"t": 1758977176.4875975, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 153}
+{"t": 1758977180.0020494, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 155}
+{"t": 1758977180.665211, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 157}
+{"t": 1758977192.7999291, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 158}
+{"t": 1758977193.0523388, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 159}
+{"t": 1758977193.3619807, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 160}
+{"t": 1758977193.4254735, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 161}
+{"t": 1758977193.5004835, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 162}
+{"t": 1758977193.5644007, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 163}
+{"t": 1758977195.168618, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 164}
+{"t": 1758977197.3769639, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 164}
+{"t": 1758977199.29036, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 165}
+{"t": 1758977201.7135305, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 166}
+{"t": 1758977203.2912297, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 166}
+{"t": 1758977205.1154442, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 167}
+{"t": 1758977208.3252933, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 3}], "session_total": 170}
+{"t": 1758977209.1944525, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 171}
+{"t": 1758977211.3035684, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 1}], "session_total": 173}
+{"t": 1758977213.2806156, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 174}
+{"t": 1758977215.562527, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 2}], "session_total": 177}
+{"t": 1758977217.1835968, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 178}
+{"t": 1758977219.2693973, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 178}
+{"t": 1758977221.6077492, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 178}
+{"t": 1758977223.1726313, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 178}
+{"t": 1758977225.284674, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 178}
+{"t": 1758977227.5425613, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 178}
+{"t": 1758977229.3009737, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 179}
+{"t": 1758977231.3086693, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 180}
+{"t": 1758977233.2313755, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 181}
+{"t": 1758977235.3146212, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 182}
+{"t": 1758977237.2544377, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 3}], "session_total": 185}
+{"t": 1758977239.3302999, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 186}
+{"t": 1758977241.3485248, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 187}
+{"t": 1758977243.403105, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 188}
+{"t": 1758977245.4114647, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 188}
+{"t": 1758977247.3003392, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 188}
+{"t": 1758977249.6534922, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 188}
+{"t": 1758977251.215148, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 189}
+{"t": 1758977253.317445, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 190}
+{"t": 1758977255.2617555, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 190}
+{"t": 1758977257.3973136, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 190}
+{"t": 1758977259.313687, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 191}
+{"t": 1758977261.4051294, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 191}
+{"t": 1758977263.4432228, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 191}
+{"t": 1758977265.300001, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 191}
+{"t": 1758977267.50162, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 192}
+{"t": 1758977269.2206986, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 2}], "session_total": 194}
+{"t": 1758977271.5264914, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 195}
+{"t": 1758977273.1877646, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 2}], "session_total": 197}
+{"t": 1758977275.5912106, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 197}
+{"t": 1758977277.2199023, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 198}
+{"t": 1758977279.6245356, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 198}
+{"t": 1758977281.3180149, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 199}
+{"t": 1758977283.228384, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 199}
+{"t": 1758977285.3193262, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 200}
+{"t": 1758977287.2008207, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 200}
+{"t": 1758977289.3173585, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 201}
+{"t": 1758977291.2123928, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 201}
+{"t": 1758977293.3084223, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 201}
+{"t": 1758977295.2233481, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 202}
+{"t": 1758977297.2838786, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 202}
+{"t": 1758977299.3966134, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 202}
+{"t": 1758977301.32016, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 202}
+{"t": 1758977303.4003217, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 2}], "session_total": 204}
+{"t": 1758977305.388595, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 204}
+{"t": 1758977307.4094822, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 2}], "session_total": 206}
+{"t": 1758977309.657349, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 206}
+{"t": 1758977311.302717, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 206}
+{"t": 1758977313.6573386, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 206}
+{"t": 1758977315.1973867, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 207}
+{"t": 1758977317.6322527, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 208}
+{"t": 1758977319.186229, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 209}
+{"t": 1758977321.4700274, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 2}], "session_total": 211}
+{"t": 1758977323.186947, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 212}
+{"t": 1758977325.4680228, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 213}
+{"t": 1758977327.2981653, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 214}
+{"t": 1758977329.6825829, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 215}
+{"t": 1758977331.2315474, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 216}
+{"t": 1758977333.717079, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 216}
+{"t": 1758977335.1614347, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 217}
+{"t": 1758977337.3878217, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 218}
+{"t": 1758977339.17662, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 219}
+{"t": 1758977341.405973, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 220}
+{"t": 1758977343.249324, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 2}], "session_total": 222}
+{"t": 1758977345.4215758, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 222}
+{"t": 1758977347.372702, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 223}
+{"t": 1758977349.345808, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 224}
+{"t": 1758977351.6029031, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 225}
+{"t": 1758977353.356518, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 225}
+{"t": 1758977355.1687412, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 225}
+{"t": 1758977357.2239888, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 225}
+{"t": 1758977359.6187675, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 226}
+{"t": 1758977361.1892328, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 226}
+{"t": 1758977363.6025426, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 226}
+{"t": 1758977365.4465587, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 227}
+{"t": 1758977367.4121778, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 228}
+{"t": 1758977369.4521518, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 231}
+{"t": 1758977371.334389, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 231}
+{"t": 1758977373.651666, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 231}
+{"t": 1758977375.407309, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 231}
+{"t": 1758977377.433724, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 231}
+{"t": 1758977379.4118483, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 231}
+{"t": 1758977381.422869, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 231}
+{"t": 1758977383.58719, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 232}
+{"t": 1758977385.3927028, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 233}
+{"t": 1758977387.3033924, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 235}
+{"t": 1758977389.4203553, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 235}
+{"t": 1758977391.3845272, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 236}
+{"t": 1758977393.4981666, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 237}
+{"t": 1758977395.4408355, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 238}
+{"t": 1758977397.4317114, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 240}
+{"t": 1758977399.54733, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 241}
+{"t": 1758977401.425619, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 242}
+{"t": 1758977403.4220467, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 244}
+{"t": 1758977405.4291456, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 247}
+{"t": 1758977407.382259, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 249}
+{"t": 1758977409.449613, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 251}
+{"t": 1758977411.452822, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 252}
+{"t": 1758977413.4737399, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 253}
+{"t": 1758977415.5404642, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 254}
+{"t": 1758977417.5406177, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 255}
+{"t": 1758977419.6919477, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 256}
+{"t": 1758977421.5222633, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 256}
+{"t": 1758977423.6373918, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 257}
+{"t": 1758977425.4853811, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 257}
+{"t": 1758977427.3293855, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 258}
+{"t": 1758977429.3967326, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 259}
+{"t": 1758977431.5194383, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 259}
+{"t": 1758977433.8016644, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 259}
+{"t": 1758977435.5154972, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 259}
+{"t": 1758977437.3439493, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 259}
+{"t": 1758977439.5354834, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 261}
+{"t": 1758977441.6306715, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 262}
+{"t": 1758977443.306116, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 262}
+{"t": 1758977445.525597, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 262}
+{"t": 1758977447.3272164, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 262}
+{"t": 1758977449.7117038, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 263}
+{"t": 1758977451.3387196, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 264}
+{"t": 1758977453.3373802, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 264}
+{"t": 1758977455.3113124, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 265}
+{"t": 1758977457.5030835, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 266}
+{"t": 1758977459.2856424, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 267}
+{"t": 1758977461.35749, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 270}
+{"t": 1758977463.3215168, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 272}
+{"t": 1758977465.3255215, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 273}
+{"t": 1758977467.3227346, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 274}
+{"t": 1758977469.3324468, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 275}
+{"t": 1758977471.3243825, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 276}
+{"t": 1758977473.3388727, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 277}
+{"t": 1758977475.3493714, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 278}
+{"t": 1758977477.325968, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 280}
+{"t": 1758977479.652696, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 282}
+{"t": 1758977481.327684, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 283}
+{"t": 1758977483.5912652, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 284}
+{"t": 1758977485.292915, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 285}
+{"t": 1758977487.4920728, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 285}
+{"t": 1758977489.2799656, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 285}
+{"t": 1758977491.3238366, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 287}
+{"t": 1758977493.3275113, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 287}
+{"t": 1758977495.3394258, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 289}
+{"t": 1758977497.3414872, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 290}
+{"t": 1758977499.3252227, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 290}
+{"t": 1758977501.6356945, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 291}
+{"t": 1758977503.3539624, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 292}
+{"t": 1758977505.5231307, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 294}
+{"t": 1758977507.2844062, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 294}
+{"t": 1758977509.2802532, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 294}
+{"t": 1758977511.2986004, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 297}
+{"t": 1758977513.3403747, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 300}
+{"t": 1758977515.542759, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 301}
+{"t": 1758977517.279066, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 301}
+{"t": 1758977519.2955213, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 303}
+{"t": 1758977521.285943, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 304}
+{"t": 1758977523.331822, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 304}
+{"t": 1758977525.32767, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 305}
+{"t": 1758977527.3362832, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 306}
+{"t": 1758977529.6014893, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 306}
+{"t": 1758977531.34347, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 307}
+{"t": 1758977533.703268, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 309}
+{"t": 1758977535.3566778, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 311}
+{"t": 1758977537.3267734, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 311}
+{"t": 1758977539.3439412, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 314}
+{"t": 1758977541.3404253, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 314}
+{"t": 1758977543.3412247, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 315}
+{"t": 1758977545.3098814, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 318}
+{"t": 1758977547.3568308, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 320}
+{"t": 1758977549.3423712, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 321}
+{"t": 1758977551.3418539, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 321}
+{"t": 1758977553.5900214, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 322}
+{"t": 1758977555.2901623, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 322}
+{"t": 1758977557.2953975, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 324}
+{"t": 1758977559.343054, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 326}
+{"t": 1758977561.6685393, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 328}
+{"t": 1758977563.2930858, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 329}
+{"t": 1758977565.441277, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 331}
+{"t": 1758977567.3561766, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 331}
+{"t": 1758977569.3451004, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 331}
+{"t": 1758977571.3562536, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 333}
+{"t": 1758977573.3463345, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 335}
+{"t": 1758977575.3454936, "sensors": [{"id": "SENSORE001", "count": 5}], "session_total": 340}
+{"t": 1758977577.353536, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 341}
+{"t": 1758977579.5218573, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 344}
+{"t": 1758977581.3007467, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 344}
+{"t": 1758977583.3028462, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 344}
+{"t": 1758977585.3423827, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 344}
+{"t": 1758977587.3537195, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 345}
+{"t": 1758977589.5442326, "sensors": [{"id": "SENSORE001", "count": 4}], "session_total": 349}
+{"t": 1758977591.3586435, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 350}
+{"t": 1758977593.403646, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 351}
+{"t": 1758977595.3037932, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 352}
+{"t": 1758977597.306028, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 353}
+{"t": 1758977599.3435946, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 356}
+{"t": 1758977601.3582292, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 358}
+{"t": 1758977603.6386096, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 361}
+{"t": 1758977605.3162339, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 363}
+{"t": 1758977607.422525, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 364}
+{"t": 1758977609.3010018, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 364}
+{"t": 1758977611.3385987, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 365}
+{"t": 1758977613.3445883, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 366}
+{"t": 1758977615.3717988, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 367}
+{"t": 1758977617.317636, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 369}
+{"t": 1758977619.3200243, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 371}
+{"t": 1758977621.578611, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 372}
+{"t": 1758977623.3066034, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 373}
+{"t": 1758977625.407941, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 374}
+{"t": 1758977627.3053331, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 376}
+{"t": 1758977629.306984, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 376}
+{"t": 1758977631.3391314, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 376}
+{"t": 1758977633.3697028, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 378}
+{"t": 1758977635.4936783, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 380}
+{"t": 1758977637.3085876, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 381}
+{"t": 1758977639.3060143, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 381}
+{"t": 1758977641.360196, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 382}
+{"t": 1758977643.3180661, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 384}
+{"t": 1758977645.4745333, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 386}
+{"t": 1758977647.3221562, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 387}
+{"t": 1758977649.3714592, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 390}
+{"t": 1758977651.3107123, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 391}
+{"t": 1758977653.3237104, "sensors": [{"id": "SENSORE001", "count": 4}], "session_total": 395}
+{"t": 1758977655.5532236, "sensors": [{"id": "SENSORE001", "count": 4}], "session_total": 399}
+{"t": 1758977657.3728497, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 401}
+{"t": 1758977659.8169463, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 402}
+{"t": 1758977661.3111494, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 403}
+{"t": 1758977663.588546, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 404}
+{"t": 1758977665.31027, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 404}
+{"t": 1758977667.4009292, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 404}
+{"t": 1758977669.3817515, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 405}
+{"t": 1758977671.3071206, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 407}
+{"t": 1758977673.3187761, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 408}
+{"t": 1758977675.323592, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 411}
+{"t": 1758977677.6183248, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 413}
+{"t": 1758977679.3253846, "sensors": [{"id": "SENSORE001", "count": 4}], "session_total": 417}
+{"t": 1758977681.486777, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 420}
+{"t": 1758977683.3308482, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 422}
+{"t": 1758977685.3686247, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 424}
+{"t": 1758977687.3120463, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 425}
+{"t": 1758977689.3208628, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 426}
+{"t": 1758977691.3196456, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 427}
+{"t": 1758977693.369626, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 427}
+{"t": 1758977695.4612317, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 429}
+{"t": 1758977697.3206527, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 430}
+{"t": 1758977699.3188405, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 430}
+{"t": 1758977701.3739107, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 432}
+{"t": 1758977703.320506, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 433}
+{"t": 1758977705.3329043, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 436}
+{"t": 1758977707.3331037, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 437}
+{"t": 1758977709.3194368, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 437}
+{"t": 1758977711.3204238, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 438}
+{"t": 1758977713.4562488, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 441}
+{"t": 1758977715.37608, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 443}
+{"t": 1758977717.3704107, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 444}
+{"t": 1758977719.321373, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 444}
+{"t": 1758977721.327792, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 446}
+{"t": 1758977723.326577, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 448}
+{"t": 1758977725.3344967, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 450}
+{"t": 1758977727.5781605, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 450}
+{"t": 1758977729.3472378, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 450}
+{"t": 1758977731.52634, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 452}
+{"t": 1758977733.334692, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 454}
+{"t": 1758977735.3256853, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 455}
+{"t": 1758977737.3381026, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 456}
+{"t": 1758977739.3754933, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 458}
+{"t": 1758977741.3591142, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 459}
+{"t": 1758977743.4010537, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 461}
+{"t": 1758977745.6672328, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 461}
+{"t": 1758977747.3221664, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 461}
+{"t": 1758977749.4614365, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 462}
+{"t": 1758977751.371566, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 464}
+{"t": 1758977753.4196045, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 465}
+{"t": 1758977755.3837826, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 465}
+{"t": 1758977757.38908, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 466}
+{"t": 1758977759.3914812, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 468}
+{"t": 1758977761.3727388, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 471}
+{"t": 1758977763.375866, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 471}
+{"t": 1758977765.3938682, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 472}
+{"t": 1758977768.4429264, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 473}
+{"t": 1758977769.9096658, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 475}
+{"t": 1758977771.7426608, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 477}
+{"t": 1758977773.7548285, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 480}
+{"t": 1758977775.7666118, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 483}
+{"t": 1758977778.3310015, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 484}
+{"t": 1758977780.0780327, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 485}
+{"t": 1758977781.7317984, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 487}
+{"t": 1758977783.7629342, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 488}
+{"t": 1758977785.7381089, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 488}
+{"t": 1758977788.4260633, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 489}
+{"t": 1758977790.0599265, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 490}
+{"t": 1758977791.791148, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 492}
+{"t": 1758977793.7474813, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 493}
+{"t": 1758977795.7558382, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 494}
+{"t": 1758977798.4074314, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 496}
+{"t": 1758977800.096334, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 498}
+{"t": 1758977801.7529845, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 499}
+{"t": 1758977803.7286043, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 499}
+{"t": 1758977805.745713, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 500}
+{"t": 1758977807.7470424, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 501}
+{"t": 1758977810.1423988, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 502}
+{"t": 1758977811.8144364, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 504}
+{"t": 1758977813.7485666, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 505}
+{"t": 1758977815.745389, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 505}
+{"t": 1758977818.364318, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 505}
+{"t": 1758977820.0976713, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 507}
+{"t": 1758977821.7202759, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 507}
+{"t": 1758977823.787458, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 509}
+{"t": 1758977825.738622, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 511}
+{"t": 1758977828.333071, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 512}
+{"t": 1758977830.066095, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 513}
+{"t": 1758977831.7585974, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 515}
+{"t": 1758977833.7554128, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 517}
+{"t": 1758977835.770714, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 520}
+{"t": 1758977838.382749, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 521}
+{"t": 1758977840.0815136, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 521}
+{"t": 1758977841.7566426, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 522}
+{"t": 1758977843.766635, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 525}
+{"t": 1758977845.743611, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 527}
+{"t": 1758977848.3934183, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 528}
+{"t": 1758977850.0786, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 530}
+{"t": 1758977851.7489572, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 532}
+{"t": 1758977853.7496316, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 533}
+{"t": 1758977855.7836587, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 533}
+{"t": 1758977858.3830316, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 534}
+{"t": 1758977860.1230555, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 535}
+{"t": 1758977861.853753, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 536}
+{"t": 1758977863.734337, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 536}
+{"t": 1758977865.7388394, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 537}
+{"t": 1758977867.7477224, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 539}
+{"t": 1758977870.0965965, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 540}
+{"t": 1758977871.775336, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 541}
+{"t": 1758977873.789348, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 542}
+{"t": 1758977875.7741072, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 542}
+{"t": 1758977878.4052505, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 543}
+{"t": 1758977880.094713, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 544}
+{"t": 1758977881.7528439, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 545}
+{"t": 1758977883.738322, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 545}
+{"t": 1758977885.799646, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 548}
+{"t": 1758977887.73985, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 549}
+{"t": 1758977896.931571, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 550}
+{"t": 1758977897.249819, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 550}
+{"t": 1758977897.5859191, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 550}
+{"t": 1758977899.2943192, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 551}
+{"t": 1758977899.4134967, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 552}
+{"t": 1758977899.75525, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 553}
+{"t": 1758977901.8418455, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 554}
+{"t": 1758977903.9279292, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 554}
+{"t": 1758977905.9844677, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 554}
+{"t": 1758977908.3732371, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 554}
+{"t": 1758977910.4974337, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 554}
+{"t": 1758977912.4657102, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 554}
+{"t": 1758977914.76723, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 555}
+{"t": 1758977916.902523, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 555}
+{"t": 1758977917.6351385, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 555}
+{"t": 1758977919.6176128, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 556}
+{"t": 1758977921.6956186, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 557}
+{"t": 1758977923.7327175, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 557}
+{"t": 1758977926.1934285, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 557}
+{"t": 1758977927.9000006, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 558}
+{"t": 1758977929.5834947, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 560}
+{"t": 1758977931.6088898, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 562}
+{"t": 1758977933.5704494, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 562}
+{"t": 1758977936.4360294, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 563}
+{"t": 1758977938.2657914, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 564}
+{"t": 1758977939.9620183, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 566}
+{"t": 1758977941.624257, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 566}
+{"t": 1758977943.5844793, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 567}
+{"t": 1758977945.570369, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 568}
+{"t": 1758977947.5700383, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 569}
+{"t": 1758977950.2751088, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 569}
+{"t": 1758977951.9637501, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 569}
+{"t": 1758977953.6670144, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 570}
+{"t": 1758977955.5736167, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 572}
+{"t": 1758977957.601801, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 572}
+{"t": 1758977959.5784733, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 572}
+{"t": 1758977962.125693, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 572}
+{"t": 1758977963.8376162, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 572}
+{"t": 1758977965.7506368, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 573}
+{"t": 1758977968.2284353, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 574}
+{"t": 1758977970.65421, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977972.5513291, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977974.4505703, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977976.0897675, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977978.0703025, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977980.064445, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977982.1159015, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 574}
+{"t": 1758977984.0946896, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 575}
+{"t": 1758977986.5242536, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 575}
+{"t": 1758977988.356461, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 576}
+{"t": 1758977990.2336063, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 576}
+{"t": 1758977992.148778, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 577}
+{"t": 1758977994.22112, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 577}
+{"t": 1758977996.2177331, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 577}
+{"t": 1758977998.7382464, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 577}
+{"t": 1758978000.6258037, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 578}
+{"t": 1758978002.6485639, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 578}
+{"t": 1758978004.1563845, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 578}
+{"t": 1758978006.2576554, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 578}
+{"t": 1758978008.137379, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 578}
+{"t": 1758978010.2527766, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 578}
+{"t": 1758978012.8124294, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 579}
+{"t": 1758978014.5547647, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 579}
+{"t": 1758978016.2721505, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 580}
+{"t": 1758978018.267683, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 580}
+{"t": 1758978032.8815594, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 581}
+{"t": 1758978034.5236428, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 582}
+{"t": 1758978036.2146106, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 583}
+{"t": 1758978038.2396939, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 584}
+{"t": 1758978040.2306871, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 586}
+{"t": 1758978042.2210357, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 587}
+{"t": 1758978044.9135644, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 589}
+{"t": 1758978046.4126158, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 590}
+{"t": 1758978048.1714659, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 591}
+{"t": 1758978050.3401458, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 592}
+{"t": 1758978052.3741488, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 593}
+{"t": 1758978054.4245112, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 594}
+{"t": 1758978056.5913298, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 596}
+{"t": 1758978058.3127935, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 597}
+{"t": 1758978060.731723, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 598}
+{"t": 1758978062.3587143, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 598}
+{"t": 1758978064.5594954, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 598}
+{"t": 1758978066.3631947, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 598}
+{"t": 1758978068.4792163, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 600}
+{"t": 1758978070.5591516, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 600}
+{"t": 1758978072.309714, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 601}
+{"t": 1758978074.8040805, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 602}
+{"t": 1758978076.334477, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 603}
+{"t": 1758978078.5335307, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 605}
+{"t": 1758978080.3071005, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 607}
+{"t": 1758978082.545922, "sensors": [{"id": "SENSORE001", "count": 4}], "session_total": 611}
+{"t": 1758978084.3067274, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 612}
+{"t": 1758978086.5581043, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 615}
+{"t": 1758978088.5079823, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 616}
+{"t": 1758978090.5494344, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 616}
+{"t": 1758978092.3096304, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 617}
+{"t": 1758978094.706972, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 618}
+{"t": 1758978096.3144495, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 619}
+{"t": 1758978098.5398445, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 621}
+{"t": 1758978100.5847108, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 623}
+{"t": 1758978102.3132436, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 625}
+{"t": 1758978104.6906621, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 626}
+{"t": 1758978106.3263257, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 627}
+{"t": 1758978108.5808692, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 627}
+{"t": 1758978110.5565093, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 627}
+{"t": 1758978112.4562383, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 628}
+{"t": 1758978114.3998244, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 629}
+{"t": 1758978116.5751827, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 630}
+{"t": 1758978118.3119783, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 630}
+{"t": 1758978120.5486636, "sensors": [{"id": "SENSORE001", "count": 3}], "session_total": 633}
+{"t": 1758978122.5656922, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 634}
+{"t": 1758978124.528266, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 634}
+{"t": 1758978127.0752757, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 634}
+{"t": 1758978130.6128843, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 634}
+{"t": 1758978131.2007253, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 634}
+{"t": 1758978132.7364974, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 636}
+{"t": 1758978135.0577083, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 637}
+{"t": 1758978136.7306395, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 638}
+{"t": 1758978138.9157345, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 638}
+{"t": 1758978140.9639275, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 638}
+{"t": 1758978142.8624346, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 640}
+{"t": 1758978144.8954768, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 642}
+{"t": 1758978146.9388561, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 643}
+{"t": 1758978148.965409, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 644}
+{"t": 1758978150.8881125, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 645}
+{"t": 1758978152.962287, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 647}
+{"t": 1758978154.7406242, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 648}
+{"t": 1758978156.9575384, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 649}
+{"t": 1758978158.7390978, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 651}
+{"t": 1758978160.861596, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 652}
+{"t": 1758978162.910925, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 653}
+{"t": 1758978164.7359722, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 654}
+{"t": 1758978166.9337094, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 656}
+{"t": 1758978168.85655, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 657}
+{"t": 1758978170.958615, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 658}
+{"t": 1758978172.7374418, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 659}
+{"t": 1758978174.9584134, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 660}
+{"t": 1758978176.7391915, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 661}
+{"t": 1758978179.0996141, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 662}
+{"t": 1758978180.9565415, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 663}
+{"t": 1758978182.96171, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 664}
+{"t": 1758978184.8394434, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 665}
+{"t": 1758978186.9092336, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 666}
+{"t": 1758978189.0194259, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 667}
+{"t": 1758978190.7501557, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 668}
+{"t": 1758978192.9469624, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 668}
+{"t": 1758978194.7483566, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 669}
+{"t": 1758978196.8715508, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 670}
+{"t": 1758978198.9734557, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 670}
+{"t": 1758978200.7344854, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 670}
+{"t": 1758978202.895576, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 670}
+{"t": 1758978205.0133128, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 671}
+{"t": 1758978206.94673, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 672}
+{"t": 1758978208.8561687, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 673}
+{"t": 1758978210.9484015, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 674}
+{"t": 1758978212.780167, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 674}
+{"t": 1758978214.928674, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 674}
+{"t": 1758978216.7753468, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 675}
+{"t": 1758978219.13285, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 675}
+{"t": 1758978220.7641442, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 676}
+{"t": 1758978222.9804666, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 678}
+{"t": 1758978224.9465528, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 679}
+{"t": 1758978226.8169575, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 679}
+{"t": 1758978228.950051, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 679}
+{"t": 1758978230.741154, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 679}
+{"t": 1758978232.9071536, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 679}
+{"t": 1758978234.744893, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 680}
+{"t": 1758978236.7860103, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 680}
+{"t": 1758978238.7970533, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 680}
+{"t": 1758978240.7936158, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 681}
+{"t": 1758978242.800913, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 681}
+{"t": 1758978245.0306125, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 683}
+{"t": 1758978246.7561977, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 683}
+{"t": 1758978248.9602401, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 684}
+{"t": 1758978250.932112, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 686}
+{"t": 1758978252.7852023, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 687}
+{"t": 1758978254.941686, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 687}
+{"t": 1758978256.8267117, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 689}
+{"t": 1758978259.1794534, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 690}
+{"t": 1758978260.8374968, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 691}
+{"t": 1758978263.0204682, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 693}
+{"t": 1758978264.931714, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 693}
+{"t": 1758978266.8299162, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 695}
+{"t": 1758978268.945097, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 695}
+{"t": 1758978270.8253536, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 696}
+{"t": 1758978272.9781783, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 697}
+{"t": 1758978274.7639866, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 697}
+{"t": 1758978277.194952, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 699}
+{"t": 1758978278.8065252, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 699}
+{"t": 1758978281.0371327, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 701}
+{"t": 1758978282.8202221, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 703}
+{"t": 1758978284.9691076, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 704}
+{"t": 1758978286.9349887, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 706}
+{"t": 1758978288.922322, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 707}
+{"t": 1758978290.9201655, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 708}
+{"t": 1758978292.9720325, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 708}
+{"t": 1758978294.937867, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 708}
+{"t": 1758978296.9129355, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 708}
+{"t": 1758978298.9201455, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 709}
+{"t": 1758978300.875109, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 710}
+{"t": 1758978302.9258933, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 711}
+{"t": 1758978304.8812342, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 711}
+{"t": 1758978306.9182713, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 711}
+{"t": 1758978309.0351734, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 712}
+{"t": 1758978310.9285293, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 714}
+{"t": 1758978313.1455965, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 714}
+{"t": 1758978314.8098564, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 714}
+{"t": 1758978317.1584032, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 715}
+{"t": 1758978318.825542, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 717}
+{"t": 1758978321.1921208, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 717}
+{"t": 1758978322.8382623, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 718}
+{"t": 1758978325.1827178, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 718}
+{"t": 1758978326.7569075, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 718}
+{"t": 1758978328.869416, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 719}
+{"t": 1758978330.95922, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 719}
+{"t": 1758978358.8998716, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 719}
+{"t": 1758978360.8928244, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 720}
+{"t": 1758978363.0690174, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 720}
+{"t": 1758978364.8076155, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 721}
+{"t": 1758978367.138038, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 721}
+{"t": 1758978368.811407, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 722}
+{"t": 1758978370.989202, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 723}
+{"t": 1758978373.077443, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978374.8060236, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978377.1675084, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978378.80479, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978380.9322827, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978383.0893342, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978384.8104112, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978386.920503, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978389.0529866, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978391.1180105, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978393.0661223, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978394.898799, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978420.9144566, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978423.0384705, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978425.0953214, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978427.0317094, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 723}
+{"t": 1758978429.1948302, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 724}
+{"t": 1758978430.910784, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 724}
+{"t": 1758978433.3218324, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 724}
+{"t": 1758978434.8301632, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 724}
+{"t": 1758978437.065656, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 725}
+{"t": 1758978438.9146972, "sensors": [{"id": "SENSORE001", "count": 1}], "session_total": 726}
+{"t": 1758978440.9929852, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978443.0265665, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978445.1099367, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978447.2111611, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978449.0431006, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978450.860505, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978452.8808162, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978455.0614116, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978457.1318328, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 726}
+{"t": 1758978459.0653994, "sensors": [{"id": "SENSORE001", "count": 2}], "session_total": 728}
+{"t": 1758978460.845631, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 728}
+{"t": 1758978463.061814, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 728}
+{"t": 1758978464.8710413, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 728}
+{"t": 1758978472.9943419, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 728}
+{"t": 1758978473.2300618, "sensors": [{"id": "SENSORE001", "count": 0}], "session_total": 728}
+{"t": 1758978473.3478167, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 729}
+{"t": 1758978473.399732, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 729}
+{"t": 1758978474.859347, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 730}
+{"t": 1758978477.6180193, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 730}
+{"t": 1758978479.3051274, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 731}
+{"t": 1758978480.9011147, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 731}
+{"t": 1758978483.0728395, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 731}
+{"t": 1758978485.4332416, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 731}
+{"t": 1758978486.9953005, "sensors": [{"id": "SENSORE001", "count": 1}, {"id": "SENSORE002", "count": 0}], "session_total": 732}
+{"t": 1758978489.0228798, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 732}
+{"t": 1758978490.866209, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 732}
+{"t": 1758978493.2880077, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 732}
+{"t": 1758978495.0261474, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 1}], "session_total": 733}
+{"t": 1758978496.8692472, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 733}
+{"t": 1758978500.7215483, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 733}
+{"t": 1758978503.1213474, "sensors": [{"id": "SENSORE001", "count": 0}, {"id": "SENSORE002", "count": 0}], "session_total": 733}

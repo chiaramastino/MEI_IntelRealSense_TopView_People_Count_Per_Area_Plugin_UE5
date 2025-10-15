@@ -1,0 +1,21 @@
+    def _prepare_inputs(self, frames: Dict[str, Dict[str, np.ndarray]]) -> Tuple[List[str], List[np.ndarray]]:
+        serials = []
+        imgs = []
+        for serial, fd in frames.items():
+            if self.use_depth_input:
+                img = make_colormap_jet_from_depth(fd["depth"])
+            else:
+                img = fd["color"]
+
+            if self.use_depth_input:
+                img = make_colormap_jet_from_depth(
+                    fd["depth"], clip_min_mm=self.depth_min, clip_max_mm=self.depth_max
+                )
+            else:
+                img = fd["color"]
+            # ridimensiona a 640x480 se non già
+            if img.shape[1] != self.args.width or img.shape[0] != self.args.height:
+                img = cv2.resize(img, (self.args.width, self.args.height), interpolation=cv2.INTER_LINEAR)
+            serials.append(serial)
+            imgs.append(img)
+        return serials, imgs

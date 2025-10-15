@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "PeopleCounterUDP",
+  "Description": "UDP JSON RX/TX per conteggio persone (Hub YOLO) + Blueprint utilities.",
+  "Category": "Networking",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "PeopleCounterUDP",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
