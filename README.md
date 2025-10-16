@@ -279,7 +279,7 @@ If you use this repository in research or exhibitions, please cite:
 
 Chiara Mastino et al.
 “MEI Intel RealSense Top-View People Counting System for Unreal Engine 5,”
-Ribes Digilab SRL, Turin (2025).
+Media Engineer & Immersive Developer, Ribes Digilab SRL, Turin (2025).
 
 ---
 
