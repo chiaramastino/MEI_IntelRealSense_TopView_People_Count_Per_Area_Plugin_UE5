@@ -26,7 +26,7 @@
 
 This repository provides a **modular Unreal Engine 5 plugin** and a **Python-based multi-sensor hub** for top-view people detection using Intel RealSense depth sensors.  
 
-Originally developed within the **MEI (Museo Egizio Immersive)** project in Turin (Italy), it enables real-time people counting and spatial aggregation across defined areas — ideal for **museums, exhibitions, smart spaces, and interactive experiences**.  
+Originally developed within the **MEI (Museo Egizio Immersive)** project in Turin (Italy) for the **Egyptian Museum** , it enables real-time people counting and spatial aggregation across defined areas — ideal for **museums, exhibitions, smart spaces, and interactive experiences**.  
 
 All data are anonymized (no RGB images stored or transmitted).
 
@@ -40,16 +40,14 @@ All data are anonymized (no RGB images stored or transmitted).
 
 | Component | Language | Role |
 |------------|-----------|------|
-| **Python Hub (`sensor_hub_udp.py`)** | Python 3.9 + | Manages multiple RealSense sensors, performs YOLO inference, and sends JSON results over UDP. |
+| **Python Hub (`sensor_hub_udp.py`)** | Python 3.9 + | Manages multiple RealSense sensors, performs YOLO inferenence, and sends JSON results over UDP. |
 | **Unreal Engine Plugin (`PeopleCounterUDP`)** | C++ / Blueprint | Receives and parses people-count packets, exposing Blueprint events for real-time logic. |
 
 ---
 
 ### Data Flow  
 
-
-Unreal Engine  →  UDP  →  Python Hub  →  YOLOv8 inference  →  UDP  →  Unreal Engine
-
+Unreal Engine  →  UDP  →  Python Hub  →  YOLOv8 inference  →  UDP  →  Unreal Engine 5.4.4
 
 1. UE sends `{ "cmd": "capture" }` to the Hub.  
 2. The Hub captures synchronized frames from all RealSense devices.  
@@ -73,9 +71,9 @@ Output: Single class "person"
 
 Performance: 30–60 fps (batch mode, RTX-class GPU)
 
-Privacy: No images transmitted — only numeric counts
+Privacy: No images transmitted — only numeric counts!
 
-Unreal Engine Plugin Features
+Unreal Engine  5.4.4 Plugin Features
 
 Runtime module: PeopleCounterUDP
 
@@ -99,45 +97,45 @@ Example Blueprint: BP_PeopleManager
 
 ### Example Applications
 
-Adaptive lighting and responsive media
-
-Audience-triggered projections or audio
-
-Live occupancy dashboards for exhibitions
-
-Blueprint Quick-Start
-
-Create Actor: BP_PeopleManager
+Adaptive lighting and responsive media | Audience-triggered projections or audio | Live occupancy dashboards for exhibitions | Blueprint Quick-Start | Create Actor: BP_PeopleManager
 
 Add Components:
-
-UDPJsonReceiverComponent (Port 7777, Auto Start = OFF)
-
-UDPJsonSenderComponent (Target Host = 127.0.0.1, Port 7780)
+1. UDPJsonReceiverComponent (Port 7777, Auto Start = OFF)
+2. UDPJsonSenderComponent (Target Host = 127.0.0.1, Port 7780)
 
 Event Graph → BeginPlay:
-
-Call Start Receiver()
-
-Set Timer (1 s) to send {"cmd":"capture"} periodically
+1. Call Start Receiver()
+2. Set Timer (1 s) to send {"cmd":"capture"} periodically (you can call them with another variable in your project, for e.g.: when the audience needs to make a decision and the timer ends, you will capture their position and process data and know which area is the most "populated" and compare regions). 
 
 On Json Received:
-
-Use ParsePeopleCountPacket to get sensor IDs and counts
+1. Use ParsePeopleCountPacket to get sensor IDs and counts
 
 Aggregate and trigger scene changes
 
 Python Hub example launch
- ```python sensor_hub_udp.py --model=yolov8_topview.pt --use-depth-input --udp-host=127.0.0.1 --data-port=7777 --cmd-port=7780 --interval=0.0 ```
-
+ ```python sensor_hub_udp.py `
+  --model gotpd_depth_s_topview.pt `
+  --device cuda `
+  --use-depth-input `
+  --width 640 --height 480 `
+  --conf 0.55 `
+  --udp-host 127.0.0.1 `
+  --data-port 7777 `
+  --cmd-port 7780 `
+  --interval 0.0 `
+  --save-frames `
+  --save-dir "[YourOwnProjectPath]\MEI_IntelRealSense_TopView_People_Count_Per_Area_Plugin_UE5\Plugins\PeopleCounterUDP\test_img" `
+  --depth-min-mm 1350 `
+  --depth-max-mm 1900 ```
 
 Replace 127.0.0.1 with the IP address of the UE machine if running on separate devices.
+You will see there are some depth measures. If you have your sensors at a certain height (In our case, we had 3 Intel Realsense D435 e D435i in top-view) at 3.20 m height - the model works well detecting people height included in the range 1350-1900 mm. 
 
 ### Python Hub Setup
+You need to create your own environment.
+
 Requirements
  ```python -m pip install -r requirements.txt ```
-
-
  ```Dependencies: pyrealsense2, opencv-python, ultralytics, numpy, asyncio. ```
 
 ### Main Commands
