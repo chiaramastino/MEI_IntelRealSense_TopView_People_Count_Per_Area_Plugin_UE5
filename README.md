@@ -191,37 +191,87 @@ Behavioral and accessibility research
 
 
 ### Repository Structure
-MEI_IntelRealSense_TopView_People_Count_Per_Area_Plugin_UE5/
+MEI\_IntelRealSense\_TopView\_People\_Count\_Per\_Area\_Plugin\_UE5/
+
+├── .git/                       # (if using Git)
+
+├── .vs/                        # Visual Studio cache
+
+├── Config/                     # project INI files
+
+├── Content/                    # Unreal assets
+
+├── DerivedDataCache/           # UE cache
+
 ├── Plugins/
-│   └── PeopleCounterUDP/        # Unreal Engine plugin source
-├── Python/
-│   ├── sensor_hub_udp.py        # RealSense + YOLO Hub
-│   ├── requirements.txt
-│   └── README_hub.md
-├── Models/
-│   └── yolov8_topview.pt        # (Download externally)
-└── Docs/
-    └── D4.11_Technical_Guide.pdf
 
+│   └── PeopleCounterUDP/
 
-(Include illustrations or workflow images in Docs/.)
+│       ├── Binaries/           # plugin build outputs
+
+│       ├── Intermediate/       # temporary build files
+
+│       ├── Source/             # plugin C++ source
+
+│       ├── session\_frames/     # debug frames/snapshots
+
+│       ├── test\_img/           # test images
+
+│       ├── yoloenv/            # (optional) YOLO env/resources
+
+│       ├── gotpd\_depth\_s\_topview.pt      # \*\*MODEL IN USE\*\*
+
+│       ├── best.pt                         # alternative model (not used)
+
+│       ├── sensor\_hub\_udp.py              # Python hub (RealSense + YOLO -> UDP)
+
+│       ├── millumin\_router.py             # optional bridge to Millumin
+
+│       ├── PeopleCounterUDP.uplugin       # plugin descriptor
+
+│       ├── prepare inputs.txt             # setup notes
+
+│       └── README.md
+
+├── Saved/                      # autosaves, logs
+
+├── Source/                     # project C++ (if any)
+
+├── LICENSE
+
+├── sensors\_mei.sln             # Visual Studio solution
+
+├── sensors\_mei.uproject        # Unreal Engine project file
+
+└── Docs/                       # (supporting folder we add)
+
+    ├── D4.11\_Technical\_Guide.pdf
+
+    └── workflow/\*.png          # workflow diagrams/images
+
+---
 
 ### Installation Checklist
 Step	Action
-Enable PeopleCounterUDP plugin in UE (Edit → Plugins).	
-Install Python 3.9+ and required packages.	
-Connect Intel RealSense sensors and verify depth stream.	
-Run the Hub with correct IP and ports.	
-Start the Unreal scene and receive JSON counts in Blueprints.	
-Future Developments
+1. Enable PeopleCounterUDP plugin in UE (Edit → Plugins).	
+2. Install Python 3.9+ and required packages.	
+3. Connect Intel RealSense sensors and verify depth stream.	
+4. Run the Hub with correct IP and ports.	
+5. Start the Unreal scene and receive JSON counts in Blueprints.	
 
-Long-term analytics dashboard and data logging
+---
 
-Integration with DMX, Art-Net, or DALI lighting systems
+### Future Developments
 
-WebSocket bridge for Unity, TouchDesigner, and Processing
+1. Long-term analytics dashboard and data logging
 
-Multi-machine sensor cluster support
+2. Integration with DMX, Art-Net, or DALI lighting systems
+
+3. WebSocket bridge for Unity, TouchDesigner, and Processing
+
+4. Multi-machine sensor cluster support
+
+---
 
 ### Citation
 
@@ -231,9 +281,13 @@ Chiara Mastino et al.
 “MEI Intel RealSense Top-View People Counting System for Unreal Engine 5,”
 Ribes Digilab SRL, Turin (2025).
 
+---
+
 ### License
 
 MIT License — free to use, modify, and redistribute with attribution.
+
+---
 
 ### Contributors and Acknowledgments
 
